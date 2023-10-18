@@ -1,4 +1,4 @@
-# GeoEngine: An Open-Source Geospatial Engine
+# GeoEngine: An Open-Source GI Engine
 
 GeoEngine is an open-source geospatial engine that makes it easy to visualize, process, and analyze geospatial data. GeoEngine is built on top of the latest geospatial technologies and is designed to be scalable, extensible, and easy to use.
 
